@@ -1,0 +1,19 @@
+####Librerías utilizadas para este proyecto####
+
+pip3.9 install tkinter (ventanas)
+
+pip3.9 install mysql-connector-python (conector a una base de datos)
+
+pip3.9 install opencv-contrib-python (Importar video de cámara y capturar video)
+
+pip3.9 install mtcnn (red neuronal de deep face)
+
+pip3.9 install tensorflow (hace fluir mejor los valores numeros de distintas dimensiones almacenados)
+
+pip3.9 install matplotlib (Personalizar foto tomada)
+
+mysql -u root -p
+
+Das enter otra vez
+
+use agency
