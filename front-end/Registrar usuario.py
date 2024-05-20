@@ -8,7 +8,8 @@ from mtcnn.mtcnn import MTCNN
 import Database as db
 
 ####Configuración####
-path = "C:/xampp/htdocs/Reconocimiento facial/" ####Ruta dónde está el programa####
+# path = "C:/xampp/htdocs/Reconocimiento facial/" ####Ruta dónde está el programa####
+path = "./" ####Ruta dónde está el programa####
 txt_login = "Iniciar Sesión"
 txt_register = "Registrarse"
 
